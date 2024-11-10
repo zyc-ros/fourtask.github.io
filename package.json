@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dev"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "-": "^0.0.1",
