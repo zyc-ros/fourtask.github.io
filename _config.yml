@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: git@github.com:zyc-ros/fourtask.github.io.git
+  branch: main
